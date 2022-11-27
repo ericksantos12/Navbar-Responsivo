@@ -1,0 +1,24 @@
+{
+  "name": "navbar-responsivo",
+  "version": "1.0.0",
+  "description": "navbar responsivo por fireship",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericksantos12/Navbar-Responsivo.git"
+  },
+  "keywords": [
+    "navbar",
+    "responsivo",
+    "tutorial"
+  ],
+  "author": "Erick Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericksantos12/Navbar-Responsivo/issues"
+  },
+  "homepage": "https://github.com/ericksantos12/Navbar-Responsivo#readme"
+}
